@@ -1,7 +1,7 @@
 package main
 
 import (
-	"ci-cd-security-scanner/internal"
+	"CI-CD-Security-Scanner/internal"
 	"fmt"
 	"os"
 )
