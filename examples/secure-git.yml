@@ -1,0 +1,10 @@
+stages:
+  - test
+
+job_secure:
+  stage: test
+  image: node:18
+  script:
+    - echo "Running a secure job"
+    - whoami
+    - echo "Using a specific tag"
