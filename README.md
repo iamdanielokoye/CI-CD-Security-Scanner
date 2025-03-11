@@ -17,8 +17,8 @@ Ensure you have **Go 1.20+** installed on your system.
 
 Clone the repository:
 ```sh
-git clone https://github.com/yourusername/ci-cd-security-scanner.git
-cd ci-cd-security-scanner
+git clone https://github.com/iamdanielokoye/CI-CD-Security-Scanner.git
+cd CI-CD-Security-Scanner
 ```
 
 Build the tool:
